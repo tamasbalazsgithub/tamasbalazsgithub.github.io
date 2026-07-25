@@ -1,0 +1,1 @@
+"use strict";(()=>{(self.webpackChunkwebsite_minimizer=self.webpackChunkwebsite_minimizer||[]).push([[57],{503:(e,_,o)=>{o.r(_),(i=>{console.log(i)})("Hello World")}},e=>{var _=s=>e(e.s=s),o=_(503)}]);})();
